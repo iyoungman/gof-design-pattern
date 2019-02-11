@@ -37,5 +37,6 @@
   + 구현 클래스가 구현해야 하는 abstact method가 너무 많으면 관리가 곤란하다.
   + 반드시 추상 클래스의 템플릿 메서드에서 구현클래스의 메서드를 부르는 식으로 로직을 구성해야 한다.(상위->하위) 자칫하면 혼선이 생기기 쉽다.
 
-*** 참고 사이트  
+*** 
+참고 사이트  
 http://blog.naver.com/PostView.nhn?blogId=2feelus&logNo=220669520535&redirect=Dlog&widgetTypeCall=true  
